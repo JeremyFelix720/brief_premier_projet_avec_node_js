@@ -34,7 +34,7 @@
 
 https://www.digitalocean.com/community/tutorials/nodejs-command-line-arguments-node-scripts
 
-1 - lire un argument --help du programme et loguer "je vais vous aider" si l'arguemnt est présent
+1 - lire un argument --help du programme et loguer "je vais vous aider" si l'argument est présent
 2 - lire un argument --name du programme et loguer "Bonjour" et le nom fourni si l'argument est présent
 
 ### Les objets
