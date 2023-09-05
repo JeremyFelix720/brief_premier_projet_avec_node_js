@@ -26,4 +26,6 @@ npx tsc --init // création du fichier "tsconfig.json"
 
 ____
 
-// les noms des dossiers et fichiers listés dans ".gitignore" seront ignorés dont pas enregistrés dans git et dans github (ce n'est pas necessaire de les stocker inutilement)
+Les noms des dossiers et fichiers listés dans ".gitignore" seront ignorés dont pas enregistrés dans git et dans github (ce n'est pas necessaire de les stocker inutilement)
+
+Les données calculées à chaque fois que l'on compile (avec "npm run dev" ou "npm run start") sont à placer dans le fichier ".gitignore" comme par exemples : "package-lock.json", "node_modules", "dist", ".env".

@@ -1,0 +1,15 @@
+GET http://localhost:3000/toto
+
+###
+GET http://localhost:3000/date
+###
+GET http://localhost:3000/thomas
+
+###
+GET http://localhost:3000/files
+
+###
+GET http://localhost:3000/random
+
+###
+GET http://localhost:3000/randomBetween/1/10

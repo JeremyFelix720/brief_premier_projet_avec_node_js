@@ -25,7 +25,7 @@
 - create src/index.ts
     console.log('Hello world');
 - git init
-- git ignore node_modules et dist
+- git ignore node_modules, dist et package.json
 - git add .
 - git commit -m "Initial commit"
 - git remote add origin
